@@ -48,4 +48,5 @@ build/
 .vscode/
 
 ## LOGS ###
-logs/
+/logs/**/*.log.gz
+logs/**/*.log.gz
