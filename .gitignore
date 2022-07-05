@@ -18,6 +18,8 @@ target/
 *.iws
 *.iml
 *.ipr
+*.log
+*.log.gz
 
 # Sensitive or high-churn files
 .idea/**/dataSources/
